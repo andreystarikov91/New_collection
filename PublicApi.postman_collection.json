@@ -583,7 +583,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -606,7 +606,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -727,7 +727,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -750,7 +750,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -871,7 +871,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -894,7 +894,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1015,7 +1015,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -1038,7 +1038,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1159,7 +1159,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -1182,7 +1182,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1308,7 +1308,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -1331,7 +1331,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1348,7 +1348,7 @@
 													"query": [
 														{
 															"key": "latitude",
-															"value": "!#ASDqwe",
+															"value": "!%23ASDqwe",
 															"description": "Географическая широта центра окружности<br />\r\n[ -90 .. 90 ]"
 														},
 														{
@@ -1451,7 +1451,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -1474,7 +1474,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1496,7 +1496,7 @@
 														},
 														{
 															"key": "longitude",
-															"value": "%$#ASDQ",
+															"value": "%$%23ASDQ",
 															"description": "Географическая долгота центра окружности<br />\r\n[ -180 .. 180 ]"
 														},
 														{
@@ -1594,7 +1594,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -1617,7 +1617,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1644,7 +1644,7 @@
 														},
 														{
 															"key": "radius",
-															"value": "(&^%#daqe",
+															"value": "(%26^%%23daqe",
 															"description": "Радиус в метрах<br />\r\n[ 1 .. 30 000 ]"
 														},
 														{
@@ -1737,7 +1737,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -1760,7 +1760,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1880,7 +1880,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -1903,7 +1903,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -1940,7 +1940,7 @@
 														},
 														{
 															"key": "count",
-															"value": "@#%REQ123asd",
+															"value": "@%23%REQ123asd",
 															"description": "Количество элементов в ответе.<br />\r\nМаксимальное число элементов - 500 (значение по умолчанию)"
 														}
 													]
@@ -2023,7 +2023,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2046,7 +2046,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -2166,7 +2166,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2189,7 +2189,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -2329,7 +2329,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2352,7 +2352,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -2456,7 +2456,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2479,7 +2479,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -2583,7 +2583,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2606,7 +2606,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -2715,7 +2715,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2738,7 +2738,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -2818,7 +2818,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2841,7 +2841,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -2921,7 +2921,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -2944,7 +2944,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3024,7 +3024,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3047,7 +3047,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3127,7 +3127,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3150,7 +3150,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3230,7 +3230,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3253,7 +3253,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3271,7 +3271,7 @@
 													"variable": [
 														{
 															"key": "countryCode",
-															"value": "OMNasdq",
+															"value": "!#$",
 															"description": "(Required) Трехбуквенный идентификатор страны"
 														}
 													]
@@ -3338,7 +3338,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3361,7 +3361,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3441,7 +3441,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3464,7 +3464,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3544,7 +3544,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3567,7 +3567,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3647,7 +3647,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3670,7 +3670,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3750,7 +3750,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3773,7 +3773,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3853,7 +3853,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -3876,7 +3876,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -3955,11 +3955,36 @@
 						{
 							"name": "Получить список всех стран",
 							"request": {
+								"auth": {
+									"type": "apikey",
+									"apikey": [
+										{
+											"key": "value",
+											"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
+											"type": "string"
+										},
+										{
+											"key": "in",
+											"value": "query",
+											"type": "string"
+										},
+										{
+											"key": "key",
+											"value": "Api",
+											"type": "string"
+										}
+									]
+								},
 								"method": "GET",
 								"header": [
 									{
 										"key": "Accept",
 										"value": "application/json"
+									},
+									{
+										"key": "x-api-key",
+										"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
+										"type": "text"
 									}
 								],
 								"url": {
@@ -4095,7 +4120,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -4118,7 +4143,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -4222,7 +4247,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -4245,7 +4270,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -4349,7 +4374,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -4372,7 +4397,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -4476,7 +4501,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -4499,7 +4524,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -4618,7 +4643,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -4641,7 +4666,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -4745,7 +4770,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -4768,7 +4793,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
@@ -4872,7 +4897,7 @@
 													"apikey": [
 														{
 															"key": "value",
-															"value": "47306034-78fc-4767-bfd9-25e78825b985",
+															"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 															"type": "string"
 														},
 														{
@@ -4895,7 +4920,7 @@
 													},
 													{
 														"key": "x-api-key",
-														"value": "47306034-78fc-4767-bfd9-25e78825b985",
+														"value": "b600b7c6-984d-4488-ad0c-26849907c65f",
 														"type": "text"
 													}
 												],
